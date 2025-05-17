@@ -1,0 +1,15 @@
+{
+  "name": "GTM Trigger ID Display",
+  "version": "1.0.1",
+  "manifest_version": 3,
+  "description": "Displays GTM Trigger IDs next to trigger names",
+  "permissions": ["scripting", "activeTab"],
+  "host_permissions": ["https://tagmanager.google.com/*"],
+  "content_scripts": [
+    {
+      "matches": ["https://tagmanager.google.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
