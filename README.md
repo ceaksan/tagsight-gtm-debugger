@@ -33,12 +33,12 @@ Google Tag Manager is powerful—but navigating triggers and groups can be tedio
 ---
 
 ## 📁 Project Structure
-
+```
 tagsight-gtm-debugger/
 ├── manifest.json
 ├── content.js
 └── README.md
-
+```
 
 ---
 
