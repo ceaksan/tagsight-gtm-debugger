@@ -2,7 +2,7 @@
 
 **TagSight** is a developer-friendly Chrome Extension that expands the capabilities of the Google Tag Manager (GTM) interface.  
 
-![TagSight GTM Debugger Preview](preview.jpg)
+![TagSight GTM Debugger Preview](./preview.jpg)
 
 It's designed to help data analysts, tag managers, and technical marketers **visually debug, track, and better understand** how triggers, tags, and groups behave.
 
